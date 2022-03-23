@@ -1,0 +1,29 @@
+{
+    "image": "ipfs://QmYrA7smMgVpWkZ1yWQNTHbpMomJfaSf524ryhWBEGM2tQ/1.png",
+    "attributes": [
+        {
+            "trait_type": "Day",
+            "value": "Two"
+        },
+        {
+            "trait_type": "City",
+            "value": "Sydney"
+        },
+        {
+            "trait_type": "Venue",
+            "value": "The Quantum Terminal, 1 Eddy Avenue, Haymarket"
+        },
+        {
+            "trait_type": "Title",
+            "value": "DEFI, DEXS & DAOS"
+        },
+        {
+            "trait_type": "Date",
+            "value": "Tuesday 22nd March 2022"
+        },
+        {
+            "trait_type": "Topics",
+            "value": "Bitcoin ecosystem, Lightning network, Ethereum ecosystem, Layer 1 - The monoliths, Layer 2 - Protocol wars, Digital Currency Exchanges, Ethics and privacy in Web3, The rise and rise of DAOs, DEX's, CEX's and the future of exchanges"
+        }
+    ]
+}

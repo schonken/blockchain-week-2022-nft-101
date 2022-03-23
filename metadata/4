@@ -1,0 +1,25 @@
+{
+    "image": "ipfs://QmYrA7smMgVpWkZ1yWQNTHbpMomJfaSf524ryhWBEGM2tQ/4.png",
+    "attributes": [
+        {
+            "trait_type": "Day",
+            "value": "Five"
+        },
+        {
+            "trait_type": "City",
+            "value": "Brisbane"
+        },
+        {
+            "trait_type": "Venue",
+            "value": "The Precinct, Level 2/315 Brunswick St, Fortitude Valley"
+        },
+        {
+            "trait_type": "Title",
+            "value": "BUILDERS, STARTUPS & SCALEUPS"
+        },
+        {
+            "trait_type": "Date",
+            "value": "Friday 25th March 2022"
+        }
+    ]
+}

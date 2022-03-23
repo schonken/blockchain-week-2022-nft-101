@@ -1,0 +1,25 @@
+{
+    "image": "ipfs://QmYrA7smMgVpWkZ1yWQNTHbpMomJfaSf524ryhWBEGM2tQ/2.png",
+    "attributes": [
+        {
+            "trait_type": "Day",
+            "value": "Three"
+        },
+        {
+            "trait_type": "City",
+            "value": "Melbourne"
+        },
+        {
+            "trait_type": "Venue",
+            "value": "Marvel Stadium, 740 Bourke Street, Docklands"
+        },
+        {
+            "trait_type": "Title",
+            "value": "NFTS & THE METAVERSE"
+        },
+        {
+            "trait_type": "Date",
+            "value": "Wednesday 23rd March 2022"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "image": "ipfs://QmYrA7smMgVpWkZ1yWQNTHbpMomJfaSf524ryhWBEGM2tQ/3.png",
+    "attributes": [
+        {
+            "trait_type": "Day",
+            "value": "Four"
+        },
+        {
+            "trait_type": "City",
+            "value": "Perth"
+        },
+        {
+            "trait_type": "Venue",
+            "value": "Perth Yacht Club, 6 Australia II Dr, Crawley WA"
+        },
+        {
+            "trait_type": "Title",
+            "value": "THE REGULATORY LANDSCAPE"
+        },
+        {
+            "trait_type": "Date",
+            "value": "Thursday 24th March 2022"
+        }
+    ]
+}

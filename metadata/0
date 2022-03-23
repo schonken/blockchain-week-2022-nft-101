@@ -1,0 +1,29 @@
+{
+    "image": "ipfs://QmYrA7smMgVpWkZ1yWQNTHbpMomJfaSf524ryhWBEGM2tQ/0.png",
+    "attributes": [
+        {
+            "trait_type": "Day",
+            "value": "One"
+        },
+        {
+            "trait_type": "City",
+            "value": "Sydney"
+        },
+        {
+            "trait_type": "Venue",
+            "value": "ASX, 20 Bridge Street, Sydney CBD"
+        },
+        {
+            "trait_type": "Title",
+            "value": "THE MAINSTREAM MOMENT"
+        },
+        {
+            "trait_type": "Date",
+            "value": "Monday 21st March 2022"
+        },
+        {
+            "trait_type": "Topics",
+            "value": "Emerging tech trends, Institutional capital and investment opportunities, The superannuation sector, Fintech disruption, CeFi adoption, New Payments Platform & Consumer Data Right, Payments sector, ESG"
+        }
+    ]
+}
